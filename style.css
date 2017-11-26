@@ -16,3 +16,21 @@ p {
 a {
 
 }
+a:link {
+    color: #ddd;
+}
+
+/* visited link */
+a:visited {
+    color: #ddd;
+}
+
+/* mouse over link */
+a:hover {
+    color: #fff;
+}
+
+/* selected link */
+a:active {
+    color: #ddd;
+}k'
