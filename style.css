@@ -1,6 +1,10 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
+#page-wrap {
+  width: 800px;
+  margin: 0 auto;
+}
 h1 {
   font-family: "Times New Roman", Times, serif;
 }
