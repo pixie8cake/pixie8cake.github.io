@@ -1,1 +1,1 @@
-# Haunted House game  
+# Haunted House Game  
