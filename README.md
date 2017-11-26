@@ -1,2 +1,1 @@
-# pixie8cake.github.io
-Haunted House  
+# Haunted House game  
