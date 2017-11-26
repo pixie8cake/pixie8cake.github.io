@@ -1,0 +1,25 @@
+
+<html>
+  <head>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="page-wrap">
+    
+      <p>You flip the switch and something lights up above you.</p>
+      
+      <P>It's a light-up ghost halloween decoration. "Boo" is written above it in flashing lights.</P>
+      
+      <P>You were right, this house is trying to hard.</P>
+      
+      <P>You briefly wonder why the switch is outside, but you figure it doesn't matter.</P>
+      
+      <P>You decide to look around for an entrance.</P>
+      
+      <P>There's a broken window to the left of the door and unlocked cellar doors around the side.</P>
+
+      <a href=window.htm>Go though the window</a> <a href=basement.htm>Go into the basement</a>
+    </div>
+  </body>
+</html>
