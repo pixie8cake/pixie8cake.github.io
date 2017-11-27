@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="/style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div id="page-wrap">
+    
+      <p>You don't know what the switch would do, this isn't the kind of place you randomly press buttons, so you decide aganist it.</p>
+      
+      <P>You decide to look around for an entrance.</P>
+      
+      <P>There's a broken window to the left of the door and unlocked cellar doors around the side.</P>
+
+      <a href=window.htm>Go though the window</a> <a href=basement.htm>Go into the basement</a>
+    </div>
+  </body>
+</html>
