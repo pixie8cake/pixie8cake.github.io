@@ -1,1 +1,1 @@
-play [haunted house game](/haunted-house.htm)
+play [haunted house game](https://pixie8cake.github.io/haunted-house.htm)
